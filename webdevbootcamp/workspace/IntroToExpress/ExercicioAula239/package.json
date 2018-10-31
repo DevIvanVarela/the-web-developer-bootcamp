@@ -1,0 +1,14 @@
+{
+  "name": "exercicioaula239",
+  "version": "1.0.0",
+  "description": "Exercício com framework Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan F Varela",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
